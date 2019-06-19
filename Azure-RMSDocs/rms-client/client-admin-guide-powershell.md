@@ -641,7 +641,7 @@ High-level steps:
 
 3. Manually run this task.
 
-#### Step 4: Confirm that the token is saved and delete the PowerShell script
+#### Step 5: Confirm that the token is saved and delete the PowerShell script
 
 1. Confirm that the token is now stored in the %localappdata%\Microsoft\MSIP folder for the service account profile. This value is protected by the service account.
 
